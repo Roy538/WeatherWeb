@@ -24,10 +24,10 @@ To run the weather website locally, follow these steps:
 - Explore the various features and functionalities of the website, including current weather display, forecasts, and remote weather search.
 
 # Preview
-![](weatherapp.png)
+![](weatherapp3.png)
 ![](weatherapp1.png)
 ![](weatherapp2.png)
-![](weatherapp3.png)
+![](weatherapp.png)
 
 
 
